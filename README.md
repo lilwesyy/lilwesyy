@@ -12,6 +12,6 @@
 <a href="https://www.behance.net/mirco-carp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mirco-carp" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilwesyy&show_icons=true&locale=en&layout=compact" alt="lilwesyy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilwesyy&show_icons=true&locale=en&layout=compact&theme=dark" alt="lilwesyy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilwesyy&show_icons=true&locale=en" alt="lilwesyy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilwesyy&show_icons=true&locale=en&theme=dark" alt="lilwesyy" /></p>
