@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirco</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🔭 I’m currently working on **myselft**
+- 🔭 I’m currently working on **myself**
 
 - 📫 How to reach me **mirco.carp@icloud.com**
 
