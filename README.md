@@ -29,12 +29,12 @@
 ## 🛠️ Tech Stack  
 ### 🚀 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,postgres,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,postgres,docker,nodejs,express,mongodb,ts" alt="Tech Stack" />
 </p>
 
 ### 🛠 **Tools & Services**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,nginx" alt="Tools" />
 </p>
 
 ---
@@ -67,22 +67,44 @@
 ---
 
 ## 🚀 Featured Projects  
-### 📌 **Lease CRM (Car Rental Management System)**
+
+### 📌 **Lease CRM (Car Rental Management System)**  
 🔹 **Tech Stack:** Laravel, Vue.js, TailwindCSS, PostgreSQL  
 🔹 **Features:**  
 ✔️ Customer & vehicle management  
 ✔️ Reservation & billing system  
 ✔️ Admin dashboard with analytics  
-
 🔗 [GitHub Repository (Private)](https://github.com/lilwesyy) | 🌍 [Live Demo](#)  
 
-### 📌 **Siam Ascensori Torino (Company Website)**
+---
+
+### 📌 **Vueshop (E-Commerce Full Stack Application)**  
+🔹 **Tech Stack:** Vue.js 3 + TypeScript, Node.js + Express.js, MongoDB, Redis, Nginx, Docker  
+🔹 **Features:**  
+✔️ JWT Authentication (Admin/Customer)  
+✔️ Products, orders, wishlist, cart management  
+✔️ Admin dashboard & responsive UI  
+✔️ Full Docker infrastructure & health checks  
+🔗 [Repository GitHub](https://github.com/lilwesyy/vueshop)  
+
+---
+
+### 📌 **Saloon CRM (CRM per Centri Estetici)**  
+🔹 **Tech Stack:** Vue.js 3 (Composition API), TailwindCSS, Node.js, Express.js, MongoDB, Docker  
+🔹 **Features:**  
+✔️ Client & appointment management  
+✔️ Services, billing, analytics & automation  
+✔️ Responsive design & containerized setup  
+🔗 [Repository GitHub](https://github.com/lilwesyy/saloon-crm)  
+
+---
+
+### 📌 **Siam Ascensori Torino (Company Website)**  
 🔹 **Tech Stack:** Laravel, Blade, Bootstrap  
 🔹 **Features:**  
 ✔️ Responsive & SEO-friendly design  
 ✔️ Service catalog & contact form  
 ✔️ Admin panel for content updates  
-
 🔗 [GitHub Repository](#) | 🌍 [Live Demo](https://siamascensori.com)  
 
 ---
